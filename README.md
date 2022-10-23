@@ -1,6 +1,8 @@
 # mog.js.org
 
-A customizable repo ([CodeEdit/codeedit.app](https://github.com/CodeEditApp/codeedit.app)) for Mog, a flexible, modular Blog System.
+Index Page for Mog, a flexible, modular Blog System. 
+
+> (Fork from [CodeEdit/codeedit.app](https://github.com/CodeEditApp/codeedit.app))
 
 ## Reference
 
