@@ -62,6 +62,7 @@ export default class MyDocument extends Document {
             content="Mog, a flexible, modular Blog System. Open source. Free forever."
           ></meta>
           <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+          <script async="" defer="" data-website-id="db355c05-e3d6-4e4c-a813-fccbc15e39b0" src="https://umami.iucky.cn/umami.js"></script>
         </Head>
         <body>
           <Main />
