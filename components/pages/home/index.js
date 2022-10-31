@@ -19,14 +19,16 @@ export default function HomePage() {
       Mog is currently in development. Check out the roadmap.
       </Ribbon>
       <HeroSection />
-      <IntroFeaturesSection />
       {/* <SampleStorySection /> */}
-      {/* <WhyUsSection /> */}
-      {/* <FeaturesSection /> */}
-      {/* <MoreFeaturesSection />
+      <br />
+      <br />
+      <IntroFeaturesSection />
+      {/* <WhyUsSection />
+      <FeaturesSection />
+      <MoreFeaturesSection />
       <SectionDivider contained />
       <SocialSection />
-      <CtaSection /> */}
+      */}
     </div>
   );
 }
