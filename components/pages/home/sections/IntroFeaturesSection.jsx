@@ -56,7 +56,7 @@ const IntroFeaturesSection = () => {
             自由软件
             </Typography>
             <Typography variant="intro" style={{ opacity: .5 }}>
-            Mog 是一个自由软件项目，在遵守 AGPL-3.0 许可证的情况下，你可以任意地分发，使用，二次修改。
+            Mog 是一个自由软件项目，在遵守 AGPL-3.0 许可证的情况下，你可以任意地分发，使用，二次修改等。
             </Typography>
           </Stack>
         </GridItem>
