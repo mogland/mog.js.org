@@ -29,7 +29,7 @@ const IntroFeaturesSection = () => {
             <Zap size={gap} />
             <Typography variant="intro" gutterTop>弹性服务</Typography>
             <Typography variant="intro" style={{ opacity: .5 }}>
-            你可以随意装载你需要的服务，而不需要担心其他的影响。这项技术得亏于 Mog 采用了微服务架构。
+            你可以任意装载你需要的服务，而不需要担心其他的影响。这项技术得亏于 Mog 采用了微服务架构。
             </Typography>
           </Stack>
         </GridItem>
@@ -53,10 +53,10 @@ const IntroFeaturesSection = () => {
           <Stack>
             <GitHub size={gap} />
             <Typography variant="intro" gutterTop>
-            完全开放源代码
+            自由软件
             </Typography>
             <Typography variant="intro" style={{ opacity: .5 }}>
-            Mog 是一个完全开放源代码的项目，在遵守许可证的情况下，你可以随意使用它，甚至可以贡献你的代码。
+            Mog 是一个自由软件项目，在遵守 AGPL-3.0 许可证的情况下，你可以任意地分发，使用，二次修改等。
             </Typography>
           </Stack>
         </GridItem>
@@ -67,7 +67,7 @@ const IntroFeaturesSection = () => {
             可扩展 & 可自定义
             </Typography>
             <Typography variant="intro" style={{ opacity: .5 }}>
-            Mog 的服务都是可插拔的，你可以随意添加或者删除服务，而不需要担心其他服务的影响。
+            Mog 的服务都是可插拔的，你可以任意添加或者删除服务，而不需要担心其他服务的影响。
             </Typography>
           </Stack>
         </GridItem>
