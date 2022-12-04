@@ -29,7 +29,7 @@ const IntroFeaturesSection = () => {
             <Zap size={gap} />
             <Typography variant="intro" gutterTop>弹性服务</Typography>
             <Typography variant="intro" style={{ opacity: .5 }}>
-            你可以按需装载你需要的服务，而不需要担心其他的影响。这项技术得亏于 Mog 采用了微服务架构。
+            你可以按需装载你需要的服务，而不需要担心其他的影响。这项技术得益于 Mog 采用了微服务架构。
             </Typography>
           </Stack>
         </GridItem>
